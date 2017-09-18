@@ -625,6 +625,11 @@ Prefab:
       propertyPath: m_Name
       value: Pickup (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 23162566835437758, guid: 91eb43cb5a20b10499ab3024c55c699b,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 91eb43cb5a20b10499ab3024c55c699b, type: 2}
   m_IsPrefabParent: 0
@@ -793,13 +798,13 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 853840632}
-  m_LocalRotation: {x: 0.38161963, y: 0.0688389, z: -0.028514003, w: 0.9213114}
+  m_LocalRotation: {x: 0.38268343, y: 0, z: 0, w: 0.92387956}
   m_LocalPosition: {x: -1.7208706, y: 10, z: -11.171419}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 45, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 45.000004, y: 0, z: 0}
 --- !u!114 &853840638
 MonoBehaviour:
   m_ObjectHideFlags: 0
